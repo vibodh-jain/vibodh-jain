@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **Some minor projects**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Kotlin**
 
 - 👯 I’m looking to collaborate on **Open source**
 
-- 💬 Ask me about **C,C++,Python**
+- 💬 Ask me about **C,C++,Python,Android Development**
 
 - 📫 How to reach me **vibodh860jain@gmail.com** 
 
