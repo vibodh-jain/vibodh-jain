@@ -17,9 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+ <a href="https://www.linkedin.com/in/vibodh-jain/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vibodh-jain" height="30" width="40" /></a>
+ <a href="https://www.instagram.com/vibodh_jain/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="vibodh_jain" height="30" width="40" /></a>
  <a href="https://twitter.com/JainVibodh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="JainVibodh" height="30" width="40" /></a> 
-<a href="https://www.linkedin.com/in/vibodh-jain/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vibodh-jain" height="30" width="40" /></a>
-<a href="https://www.instagram.com/vibodh_jain/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="vibodh_jain" height="30" width="40" /></a>
 <a href="https://www.facebook.com/vibodh.jain.4/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="vibodhjain" height="30" width="40" /></a>
 </p>
 
