@@ -1,6 +1,7 @@
 <h1 align="center">Here is 👋 Vibodh Jain</h1>
 <h3 align="center">Software developer</h3>
 
+<img align='right' src="https://www.codemade.io/wp-content/uploads/2018/04/hire-angularjs-developers-offshore-angularjs-programmers-152343160384kng.png" height="300" width="330">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vibodh-jain&label=Profile%20views&color=0e75b6&style=flat" alt="vibodh-jain" /> </p>
 
 
