@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **vibodh860jain@gmail.com** 
 
-- ⚡ Fun fact **I am always there for you🙂**
+- ⚡ Fun fact **You can always talk to me about cricket🙂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
